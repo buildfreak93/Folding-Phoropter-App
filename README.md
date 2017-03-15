@@ -11,7 +11,7 @@ An App which lets you know the refractive error of an eye.
 
 ## Getting Started
  
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. This app is totally build on MIT App Inventor. Download the aia file and then run it on app inventor.
 
 ### Prerequisites
 
