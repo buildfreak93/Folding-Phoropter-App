@@ -7,7 +7,8 @@ An App which lets you know the refractive error of an eye.
  * By chnaging the distance between the lenses we can get desired powers.
  * A scale has been marked on the device to get the refractive error.
  * This App gives the effective power of the system (when kept infront of an eye) based on the distance between those lenses.
-
+ 
+![flat-palette-9-blogin-syes](https://cloud.githubusercontent.com/assets/17895582/25426526/1620a89e-2a8d-11e7-8e8d-6e8df3ed4d33.png)
 
 ## Getting Started
  
