@@ -2,7 +2,7 @@
 
 An App that lets you know the refractive error of an eye.
 
- * Folding Phorotor is a paper foldable device that gives the refractive error of the human eye. (More about the project [here].(https://fellowsblog.ted.com/the-1-foldable-eye-screening-kit-is-here-1db4420e8ad1). & [here].(https://www.sandeepvempati.com/work#/folding-phoropter/).)
+ * Folding Phorotor is a paper foldable device that gives the refractive error of the human eye. More about the project [https://fellowsblog.ted.com/the-1-foldable-eye-screening-kit-is-here-1db4420e8ad1] [https://www.sandeepvempati.com/work#/folding-phoropter/]
  * It consists of two known power lenses.
  * We can get the desired powers by changing the distance between the lenses.
  * The device has marked a scale to get the refractive error.
@@ -10,7 +10,10 @@ An App that lets you know the refractive error of an eye.
  
 ![flat-palette-9-blogin-syes](https://cloud.githubusercontent.com/assets/17895582/25426526/1620a89e-2a8d-11e7-8e8d-6e8df3ed4d33.png)
 
-* A study is conducted to validate the scale 
+* A study is conducted to validate the scale by taking the refractive errors (eye power) of the participants and their respective distance between the lenses to see the target.
+* When we overlay the values of the study and the values from the mathematical equation we see 95% correlation.
+
+![ARvsJulia](https://github.com/user-attachments/assets/77fd262a-ccfa-45f4-b4ee-2d6eb38fcc45)
 
 ## Getting Started
  
