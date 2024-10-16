@@ -1,18 +1,20 @@
 # Folding Phoroter App
 
-An App which lets you know the refractive error of an eye.
+An App that lets you know the refractive error of an eye.
 
- * Folding Phorotor is a paper foldable device which gives the refractive error of human eye.
+ * Folding Phorotor is a paper foldable device that gives the refractive error of the human eye. (More about the project [here].(https://fellowsblog.ted.com/the-1-foldable-eye-screening-kit-is-here-1db4420e8ad1). & [here].(https://www.sandeepvempati.com/work#/folding-phoropter/).)
  * It consists of two known power lenses.
- * By chnaging the distance between the lenses we can get desired powers.
- * A scale has been marked on the device to get the refractive error.
- * This App gives the effective power of the system (when kept infront of an eye) based on the distance between those lenses.
+ * We can get the desired powers by changing the distance between the lenses.
+ * The device has marked a scale to get the refractive error.
+ * This app gives the system effective power (when kept in front of an eye) based on the distance between those lenses.
  
 ![flat-palette-9-blogin-syes](https://cloud.githubusercontent.com/assets/17895582/25426526/1620a89e-2a8d-11e7-8e8d-6e8df3ed4d33.png)
 
+* A study is conducted to validate the scale 
+
 ## Getting Started
  
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. This app is totally build on MIT App Inventor. Download the aia file and then run it on app inventor.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. This app is built on MIT App Inventor. Download the aia file and then run it on app inventor.
 
 ### Prerequisites
 
@@ -24,7 +26,7 @@ You'll need:
 
 ## Deployment
 
-Follow steps on MIT App Inventor to connect to your android device and run the App
+Follow the steps on MIT App Inventor to connect to your Android device and run the App
 
 ## Built With
 
